@@ -1,0 +1,14 @@
+.logo{
+  margin: 10px 0;
+  width: 100%;
+  height: 55px;
+}
+.logo img{
+  width: 100%;
+  height: 100%;
+}
+
+.title{
+  text-align: center;
+  font-weight: bold;
+}
